@@ -1,14 +1,15 @@
 # Site
 title:              Atmos Maciel
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.'
+description:        "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/hal9000.png'
+background:         'assets/img/patrick-lindenberg-191841.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://atmosmaciel.github.io
+locale:             pt_BR
+url:                http://127.0.0.1:4000
+# url:                https://atmosmaciel.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -30,6 +31,13 @@ disqus_shortname:   atmosmaciel
 
 # Social
 # if you don't have any of social below, comment the line.
+linkedin:           'atmosmaciel'
+twitter:            'atmosmps'
+instagram:          'atmosmps'
+github-url:         'atmosmaciel'
+medium:             '@atmosmaciel'
+facebook:           'atmosmps'
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #google:
   #plus:            #username
   #analytics:
@@ -38,16 +46,9 @@ disqus_shortname:   atmosmaciel
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            atmosmpds
-facebook:           atmosmpds
-github-url:         https://github.com/atmosmaciel
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           https://www.linkedin.com/in/atmosmaciel/
 #xing:              username
-instagram:          atmosmpds
 #lastfm:            username
 #tumblr:            username
-medium:            '@atmosmaciel'
 #pinterest:         username
 #foursquare:        username
 #steam:             username
