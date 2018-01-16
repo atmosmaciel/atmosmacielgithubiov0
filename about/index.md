@@ -1,37 +1,24 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre
+tags: [about, moon]
+date: 2018-01-15
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>"I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." HAL 9000</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# Olá.
+Meu nome é **Atmos Maciel**.
 
-## Preview
+## Sobre mim.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Graduado em Ciência da Computação na faculdade Pitágoras, cursando técnico em programação de jogos digitais pela UEMANET, CTO - Founder da Heptum, presidente da comunidade PHP Maranhão e Sócio/Professor da Impacto Maker. Eu trabalho, atualmente, como desenvolvedor de sistemas web. "Flertante" com DevOps e Python. Apaixonado pelo Free and open-source software (FOSS) e também por tecnologias web, ciência e inovação.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Além disso sou viciado em café e arranho no violão de vez em quando. Eu sonho que um dia vou aprender poker e Xadrez.
 
-## Getting Started
+## Sobre esta página.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Esta página surgiu com a necessidade que eu tive de concentrar minhas informações em um único lugar. Então o github me serviu bem. Além disso gostaria de deixar meu agradecimento a [TaylanTatli](https://github.com/TaylanTatli) que escreveu este template combinando perfeitamente uma página pessoal com Blog.
+
+Meu Blog no momento está em construção, mas logo sairá do papel. Enquanto isso não vejo problema de colocar meus artigos aqui ou o que eu achar necessário por aqui. Pode entrar em contato comigo nos links que estão no início da página.

@@ -5,7 +5,7 @@ description:        "I am putting myself to the fullest possible use, which is a
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/hal9000.png'
-background:         'assets/img/patrick-lindenberg-191841.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 # url:                http://127.0.0.1:4000
