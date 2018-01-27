@@ -2,6 +2,8 @@
 layout: project
 title: Projects
 excerpt: "My List Projects"
+date: 2018-01-27
+project: true
 comments: false
 ---
 
