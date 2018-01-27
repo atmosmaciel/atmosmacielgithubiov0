@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Projects
 project: true
 excerpt: "My List Projects"
