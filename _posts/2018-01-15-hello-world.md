@@ -4,8 +4,8 @@ title:  "Hello World"
 date:   2018-01-15
 excerpt: "Hello World!"
 tag:
-- about 
+- about
 comments: true
 ---
 
-<center><b>Hello World!</b> Bem vindo(a) ao meu blog!</center>
+<center><b>Hello World!</b> Bem vindo(a) a minha página!</center>

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sobre
-tags: [about, moon]
+title: About
+tags: [moon, personal]
 date: 2018-01-15
 comments: false
 ---
-    
+
 <center>"I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." HAL 9000</center>
 
 # Olá.
@@ -19,6 +19,8 @@ Além disso sou viciado em café e arranho no violão de vez em quando. Eu sonho
 
 ## Sobre esta página.
 
-Esta página surgiu com a necessidade que eu tive de concentrar minhas informações em um único lugar. Então o github me serviu bem. Além disso gostaria de deixar meu agradecimento a [TaylanTatli](https://github.com/TaylanTatli) que escreveu este template combinando perfeitamente uma página pessoal com Blog.
+Esta página surgiu com a necessidade que eu tive de concentrar minhas informações em um único lugar. Então o github me serviu bem. Além disso gostaria de deixar meu agradecimento a [TaylanTatli](https://github.com/TaylanTatli) que escreveu este template combinando perfeitamente uma página pessoal com Blog. Eu não pretendo(e provavelmente não irei) utilizar este espaço como blog, portanto as configurações para blog e postagens foram desativadas deste template.
 
-Meu Blog no momento está em construção, mas logo sairá do papel. Enquanto isso não vejo problema de colocar meus artigos aqui ou o que eu achar necessário por aqui. Pode entrar em contato comigo nos links que estão no início da página.
+Você pode entrar em contato comigo pelos links no início da página.
+
+Até logo!
