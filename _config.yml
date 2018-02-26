@@ -8,8 +8,8 @@ logo:               'assets/img/hal9000.png'
 background:         'assets/img/nasa-53884-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                http://127.0.0.1:4000
-# url:                https://atmosmaciel.github.io
+# url:                http://127.0.0.1:4000
+url:                https://atmosmaciel.github.io
 
 # Jekyll
 permalink:          /:title/
