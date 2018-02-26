@@ -6,4 +6,8 @@ Aqui você encontrará minhas principais informações e também meus principais
 
 Link para o template original: [Moon](https://github.com/TaylanTatli/Moon)
 
+```Atualização: 26/02/2018```
+
+Utilizando agora o template: [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
+
 Acesse: [https://atmosmaciel.github.io/](https://atmosmaciel.github.io/)
