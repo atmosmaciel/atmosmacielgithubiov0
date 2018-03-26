@@ -11,5 +11,4 @@ comments: false
 
 ### Você encontra meus projetos pessoais nos links abaixo:
 
-* [Github](https://github.com/atmosmaciel)
-* [Gitlab](https://gitlab.com/atmosmaciel)
+[Github](https://github.com/atmosmaciel) | [Gitlab](https://gitlab.com/atmosmaciel)

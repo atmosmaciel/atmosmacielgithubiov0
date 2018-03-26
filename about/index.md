@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 tags: [moon, personal]
 date: 2018-01-15
 comments: false
