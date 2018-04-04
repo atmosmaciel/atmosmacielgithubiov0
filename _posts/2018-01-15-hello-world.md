@@ -3,10 +3,10 @@ layout: post
 title:  "Hello World"
 date:   2018-01-15
 excerpt: "Hello World!"
-tag: [about]
+tag: [personal]
 comments: true
 ---
 
 <center>
-    <b>Hello World!</b>
+    <b>Hello Fucking World!</b>
 </center>
