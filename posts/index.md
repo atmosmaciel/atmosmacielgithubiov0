@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Todos os artigos
+title: All Articles
 excerpt: "Archive List"
 comments: false
 ---
