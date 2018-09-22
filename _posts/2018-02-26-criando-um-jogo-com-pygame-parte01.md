@@ -28,7 +28,7 @@ Eu criei um virtualenv chamado env-pygame através do seguinte comando:
 ```mkvirtualenv env-pygame```
 
 <center>
-    <img src="../img/articles-images/2018-02-26-criando-um-jogo-com-pygame-parte01/2018-02-26-criando-um-jogo-com-pygame-parte01-mark0.png" alt="">
+    <img src="../assets/img/img-posts/criando-um-jogo-com-pygame-parte01-1.png" alt="">
 </center>
 
 ### Utilizando a Virtualenv
@@ -38,7 +38,7 @@ Para utilizar nosso virtualenv você deve ativá-lo, para isso, utilize o seguin
 ```workon o-nome-do-seu-virtual-env```
 
 <center>
-    <img src="../img/articles-images/2018-02-26-criando-um-jogo-com-pygame-parte01/1__fNBLcUKSRw4iOc_Z_WCzw.png" alt="">
+    <img src="../assets/img/img-posts/criando-um-jogo-com-pygame-parte01-2.png" alt="">
 </center>
 
 ### Instalando Pygame
@@ -48,7 +48,7 @@ Agora que temos nosso virtualenv ativo iremos instalar o Pygame com o seguinte c
 ```pip install pygame```
 
 <center>
-    <img src="../img/articles-images/2018-02-26-criando-um-jogo-com-pygame-parte01/1_Z3bJplD4HeqQoGRb__adjQ.png" alt="">
+    <img src="../assets/img/img-posts/criando-um-jogo-com-pygame-parte01-3.png" alt="">
 </center>
 
 Em projetos maiores nossa estrutura de diretórios seria melhor dividida, teríamos mais módulos e consequentemente mais arquivos. No nosso caso teremos apenas um arquivo principal que eu vou chamar de main.py e um diretório para guardar as imagens que iremos utlizar, nos próximos artigos iremos conhecer essa estrutura inicial.
@@ -60,7 +60,7 @@ Agora já temos o que precisamos para começar a trabalhar com o Pygame da forma
 O jogo que iremos criar é bem simples. Teremos apenas 3 elementos: uma barra, uma bola, e a tela de fundo. Ao final dessa série de artigos nosso jogo deverá funcionar de forma semelhante a isso(poderão haver modificações):
 
 <center>
-    <img src="../img/articles-images/2018-02-26-criando-um-jogo-com-pygame-parte01/1_bvUZYV4iliY8546NS2i5wg.gif" alt="">
+    <img src="../assets/img/img-posts/criando-um-jogo-com-pygame-parte01-4.gif" alt="">
 </center>
 
 Nada muito impressionante não é mesmo? Mas com isso nós iremos entender, controles, colisões, movimentações de objetos e outros conceitos bem legais que o Pygame nos permite utilizar. Todos sabemos como funciona este jogo.
