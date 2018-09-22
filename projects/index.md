@@ -7,10 +7,4 @@ date: 2018-01-27
 comments: false
 ---
 
-<center>"I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." HAL 9000</center>
-
-### Você encontra meus projetos pessoais nos links abaixo:
-
-[Github](https://github.com/atmosmaciel)
-
-[Gitlab](https://gitlab.com/atmosmaciel)
+<center>"I think you know what the problem is just as well as I do." HAL 9000</center>
