@@ -1,15 +1,17 @@
 # Site
 title:              Atmos Maciel
-bio:                'I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.'
-description:        "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."
+# bio:                'I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do.'
+# description:        "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."
+bio:                'I think you know what the problem is just as well as I do.'
+description:        "I think you know what the problem is just as well as I do."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/hal9000.png'
 background:         'assets/img/nasa-53884-unsplash.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-# url:                http://127.0.0.1:4000
-url:                https://atmosmaciel.github.io
+url:                http://127.0.0.1:4000
+# url:                https://atmosmaciel.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -31,11 +33,11 @@ disqus_shortname:   atmosmaciel
 
 # Social
 # if you don't have any of social below, comment the line.
-linkedin:           'atmosmaciel'
-github-url:         'atmosmaciel'
-medium:             '@atmosmaciel'
+linkedin:           'atmosmps'
+github-url:         'atmosmps'
 twitter:            'atmosmps'
 instagram:          'atmosmps'
+medium:             '@atmosmps'
 #facebook:           'atmosmps'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #google:
